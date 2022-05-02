@@ -1,0 +1,7 @@
+pip install fastapi
+pip install "uvicorn[standard]" 
+pip install pydantic
+pip install typing
+pip install pandas
+pip insatll joblib
+pip install numpy
